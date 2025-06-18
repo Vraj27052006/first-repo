@@ -1,4 +1,4 @@
 # first-repo
-my first git repo
+My first Git repo
 <br>
 By - Vraj Majithiya
