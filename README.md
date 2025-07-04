@@ -1,4 +1,4 @@
 # first-repo
-My first Git repositary
+My first Git repository
 <br>
 By - Vraj Majithiya
